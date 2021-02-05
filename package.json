@@ -13,6 +13,7 @@
   "dependencies": {
     "knex": "<0.21.1",
     "pg": "^8.0.3",
+    "pg-connection-string": "^2.4.0",
     "sqlite3": "latest",
     "strapi": "3.4.0",
     "strapi-admin": "3.4.0",
